@@ -184,20 +184,6 @@ python manage.py test
 
 ---
 
-## 🧠 Learning Outcomes
-
-By completing this project, you’ll master:
-
-* Django fundamentals (models, migrations, views)
-* Google OAuth authentication & API integrations
-* Managing static assets with Tailwind CSS
-* Event tracking and signal-based automation
-* TimescaleDB time-series analytics
-* CI/CD with GitHub Actions
-* Real-world Django best practices
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
@@ -218,5 +204,3 @@ git push origin feature/new-feature
 ---
 
 **Made with ❤️ using Django + Tailwind + TimescaleDB(PostgreSQL)**
-
-```
