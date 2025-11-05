@@ -1,8 +1,6 @@
 # 🧩 Django CRM — Customer Relationship Management System
 
 A **modern Django-based CRM platform** designed to help you manage customers, track events, analyze engagement, and automate workflows.  
-This project evolves from Django fundamentals to production-grade deployment — including authentication, analytics, event tracking, and integrations with Google APIs.
-
 ---
 
 ## 🚀 Project Overview
@@ -217,14 +215,6 @@ git checkout -b feature/new-feature
 git commit -m "Add new feature"
 git push origin feature/new-feature
 ```
-
----
-
-## 🌟 Acknowledgements
-
-* [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com) for the project foundation
-* Django, Tailwind, Flowbite, and TimescaleDB communities for their amazing tools
-
 ---
 
 **Made with ❤️ using Django + Tailwind + TimescaleDB(PostgreSQL)**
